@@ -4,7 +4,7 @@ You can change the received message in the config.yml.
 
 ## Commands
 
-/commandnotfound. Main command and version indicator.
+/commandnotfound. Main command and version indicator.\
 /commandnotfound reload. Reloads the config file to change the current message.
 
 ![](img.png)
