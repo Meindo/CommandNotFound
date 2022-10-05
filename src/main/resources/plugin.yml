@@ -1,0 +1,11 @@
+name: CommandNotFound
+version: 1.0
+main: net.minigameking.commandnotfound.CommandNotFound
+api-version: 1.19
+authors: [ MeindoMC ]
+description: A simple customisable "Command not found" plugin
+website: https://minigameking.net
+commands:
+  commandnotfound:
+    description: CommandNotFound by MeindoMC
+    usage: /commandnotfound
